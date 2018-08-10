@@ -1,0 +1,14 @@
+.questionText {
+  border: 1px solid #000;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  line-height: 1.2;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

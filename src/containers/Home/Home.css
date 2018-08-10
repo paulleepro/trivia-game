@@ -1,0 +1,47 @@
+.homePage {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.header {
+  padding: 40px;
+}
+
+.content {
+  margin-top: 30px;
+  padding: 20px;
+  text-align: center;
+  background: #e0e0e0;
+  height: 667px;
+  width: 375px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.homeText {
+  font-size: 24px;
+  padding: 40px;
+  line-height: 1.5;
+}
+
+button {
+  border-radius: 10px;
+  border: none;
+  margin: 5px;
+  outline: none;
+  transition: all 0.5s ease-in;
+}
+
+button:hover {
+  cursor: pointer;
+  background: #9a9696;
+}
+
+.eventBtn {
+  width: 200px;
+  height: 50px;
+  background: #cecaca;
+}

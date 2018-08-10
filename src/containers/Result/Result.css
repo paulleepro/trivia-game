@@ -1,0 +1,14 @@
+.resultsRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.result {
+  text-align: left;
+}
+
+.result__mark {
+  margin-right: 10px;
+  font-weight: bold;
+}
